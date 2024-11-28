@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Friendsy-Sajeev
 - 👀 I’m interested in doing Machines in hackthebox,tryhackme,etc,...
-- 🌱 I’m currently learning Cybersecurity
+- 🌱 Cybersecurity Enthusiast
 - 📫 How to reach me : www.linkedin.com/in/friendsy-sajeev-588049237
 
 <!---
